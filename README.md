@@ -1,2 +1,2 @@
-# Parkinson-s-M-M-System
+# Parkinson's M&M System
 Project Arduino files
